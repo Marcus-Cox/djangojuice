@@ -1,1 +1,1 @@
-from .menu_items import MenuItem
+from .menu_item import MenuItem
