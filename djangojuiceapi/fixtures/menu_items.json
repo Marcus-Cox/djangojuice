@@ -1,0 +1,22 @@
+[
+    {
+      "model": "djangojuiceapi.menuitem",
+      "pk": 1,
+      "fields": {
+        "title": "Migrate Milk Shake",
+        "description":"Shake with a Complex Flavor",
+        "price":10.17,
+        "type":"Signature Drink"
+      }
+    },
+    {
+      "model": "djangojuiceapi.menuitem",
+      "pk": 2,
+      "fields": {
+        "title": "Sqlite Slurpy",
+        "description":"Seriously Sorted Flavors",
+        "price":12.20,
+        "type":"Specialty Drink"
+      }
+    }
+  ]
